@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science student. I'm currently studying Node.js, React and AWS.
+Computer science student. I'm currently studying TypeScrip, React and Go.
 
 
 ## 🌐 Socials:
